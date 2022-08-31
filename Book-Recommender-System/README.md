@@ -7,6 +7,6 @@ Team ID - 17
 Name: Sai Mohan Sasank Konakalla
 SRN: PES1UG19CS224
 
-Name: Venkata Pradeep Reddy Venuthurla
+Name: Venkata Pradeep Reddy Venuthurla (Me)
 SRN: PES1UG19CS564
 
